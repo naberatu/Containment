@@ -1072,3 +1072,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-23.21.16:561][ 35]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.089
 [2021.09.28-23.21.16:571][ 35]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2021.09.28-23.21.16:571][ 35]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.09.28-23.30.35:535][848]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/tile.tile
+[2021.09.28-23.31.58:401][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.09.28-23.31.58:403][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.026
+[2021.09.28-23.31.58:403][983]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/tile] ([2] browsable assets)...
+[2021.09.28-23.31.58:403][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/tile]
+[2021.09.28-23.31.58:421][983]LogSavePackage: Moving '../../../../../../Users/drcar/Documents/GitHub/Containment/Saved/tile_Auto11EE4FD7A40E4609FA110B59EFB6646E0.tmp' to '../../../../../../Users/drcar/Documents/GitHub/Containment/Saved/Autosaves/Game/TopDownBP/Blueprints/tile_Auto1.uasset'
+[2021.09.28-23.31.58:422][983]LogFileHelpers: Auto-saving content packages took 0.019
+[2021.09.28-23.36.54:518][784]BlueprintLog: New page: Compile tile
+[2021.09.28-23.36.54:570][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.09.28-23.36.57:469][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/tile" FILE="../../../../../../Users/drcar/Documents/GitHub/Containment/Content/TopDownBP/Blueprints/tile.uasset" SILENT=true
+[2021.09.28-23.36.57:483][ 71]LogSavePackage: Moving '../../../../../../Users/drcar/Documents/GitHub/Containment/Saved/tile0EECE7D643D2677782217B957458F05C.tmp' to '../../../../../../Users/drcar/Documents/GitHub/Containment/Content/TopDownBP/Blueprints/tile.uasset'
+[2021.09.28-23.36.57:492][ 71]AssetCheck: New page: Asset Save: tile
+[2021.09.28-23.36.57:492][ 71]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/tile.tile
